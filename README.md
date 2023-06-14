@@ -8,16 +8,16 @@ SQL
 You can access the dataset [here](http://insideairbnb.com/get-the-data/)
 
 #SQL STATEMENTS USED
---IN
---SELECT 
---WHERE
---ORDER BY
---LIMIT
---WILD CARDS *
---DISTINCT
---NULL
+- IN
+- SELECT 
+- WHERE
+- ORDER BY
+- LIMIT
+- WILD CARDS *
+- DISTINCT
+- NULL
 
 #Operators
---AND 
---OR
---NOT
+- AND 
+- OR
+- NOT
