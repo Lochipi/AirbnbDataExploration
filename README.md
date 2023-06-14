@@ -21,3 +21,6 @@ You can access the dataset [here](http://insideairbnb.com/get-the-data/)
 - AND 
 - OR
 - NOT
+
+# Note
+**Please ignore the Data.xlsx**
